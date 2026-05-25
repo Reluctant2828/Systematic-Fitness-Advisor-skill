@@ -1,0 +1,26 @@
+{
+  "schema_version": "0.1",
+  "profile": {
+    "goal": "",
+    "time_horizon": "",
+    "age": null,
+    "sex": "",
+    "height_cm": null,
+    "bodyweight_kg": null,
+    "training_age": "",
+    "weekly_training_days": null,
+    "session_length_minutes": null,
+    "equipment": [],
+    "load_increments": {},
+    "pain_constraints": [],
+    "preferences": [],
+    "must_keep_exercises": [],
+    "disliked_exercises": []
+  },
+  "current_program": {
+    "split": "",
+    "notes": ""
+  },
+  "updated_at": null,
+  "notes": ""
+}

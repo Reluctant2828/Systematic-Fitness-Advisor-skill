@@ -1,0 +1,3044 @@
+{
+  "schema_version": "0.1",
+  "source_file": "user-provided exercise library text and screenshots",
+  "exercise_count": 147,
+  "body_parts": [
+    "胸",
+    "背",
+    "肩",
+    "腿",
+    "二头",
+    "三头",
+    "臀部",
+    "腹部"
+  ],
+  "fields": {
+    "id": "Stable identifier generated from body part, equipment, and source order.",
+    "name_zh": "Chinese exercise name from the source library.",
+    "body_part": "Original body-part grouping.",
+    "equipment": "Original equipment grouping.",
+    "primary_muscles": "Default inferred primary muscle group; refine when detailed anatomy is added.",
+    "movement_pattern": "Default inferred movement pattern for plan construction.",
+    "goals": "Default applicable goals; refine per exercise when needed.",
+    "notes": "Free-form corrections or coaching notes."
+  },
+  "exercises": [
+    {
+      "id": "chest-barbell-001",
+      "name_zh": "杠铃卧推",
+      "body_part": "胸",
+      "body_part_id": "chest",
+      "equipment": "杠铃",
+      "equipment_id": "barbell",
+      "primary_muscles": [
+        "胸大肌"
+      ],
+      "movement_pattern": "horizontal_push",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength",
+        "powerlifting_support"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "chest-barbell-002",
+      "name_zh": "宽距卧推",
+      "body_part": "胸",
+      "body_part_id": "chest",
+      "equipment": "杠铃",
+      "equipment_id": "barbell",
+      "primary_muscles": [
+        "胸大肌"
+      ],
+      "movement_pattern": "horizontal_push",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength",
+        "powerlifting_support"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "chest-barbell-003",
+      "name_zh": "上斜杠铃卧推",
+      "body_part": "胸",
+      "body_part_id": "chest",
+      "equipment": "杠铃",
+      "equipment_id": "barbell",
+      "primary_muscles": [
+        "胸大肌"
+      ],
+      "movement_pattern": "horizontal_push",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength",
+        "powerlifting_support"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "chest-barbell-004",
+      "name_zh": "下斜杠铃卧推",
+      "body_part": "胸",
+      "body_part_id": "chest",
+      "equipment": "杠铃",
+      "equipment_id": "barbell",
+      "primary_muscles": [
+        "胸大肌"
+      ],
+      "movement_pattern": "horizontal_push",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength",
+        "powerlifting_support"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "chest-dumbbell-005",
+      "name_zh": "哑铃卧推",
+      "body_part": "胸",
+      "body_part_id": "chest",
+      "equipment": "哑铃",
+      "equipment_id": "dumbbell",
+      "primary_muscles": [
+        "胸大肌"
+      ],
+      "movement_pattern": "horizontal_push",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength",
+        "powerlifting_support"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "chest-dumbbell-006",
+      "name_zh": "上斜哑铃卧推",
+      "body_part": "胸",
+      "body_part_id": "chest",
+      "equipment": "哑铃",
+      "equipment_id": "dumbbell",
+      "primary_muscles": [
+        "胸大肌"
+      ],
+      "movement_pattern": "horizontal_push",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength",
+        "powerlifting_support"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "chest-dumbbell-007",
+      "name_zh": "下斜哑铃卧推",
+      "body_part": "胸",
+      "body_part_id": "chest",
+      "equipment": "哑铃",
+      "equipment_id": "dumbbell",
+      "primary_muscles": [
+        "胸大肌"
+      ],
+      "movement_pattern": "horizontal_push",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength",
+        "powerlifting_support"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "chest-dumbbell-008",
+      "name_zh": "窄距哑铃卧推",
+      "body_part": "胸",
+      "body_part_id": "chest",
+      "equipment": "哑铃",
+      "equipment_id": "dumbbell",
+      "primary_muscles": [
+        "胸大肌"
+      ],
+      "movement_pattern": "horizontal_push",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength",
+        "powerlifting_support"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "chest-dumbbell-009",
+      "name_zh": "哑铃飞鸟",
+      "body_part": "胸",
+      "body_part_id": "chest",
+      "equipment": "哑铃",
+      "equipment_id": "dumbbell",
+      "primary_muscles": [
+        "胸大肌"
+      ],
+      "movement_pattern": "chest_fly",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "chest-dumbbell-010",
+      "name_zh": "上斜哑铃飞鸟",
+      "body_part": "胸",
+      "body_part_id": "chest",
+      "equipment": "哑铃",
+      "equipment_id": "dumbbell",
+      "primary_muscles": [
+        "胸大肌"
+      ],
+      "movement_pattern": "chest_fly",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "chest-dumbbell-011",
+      "name_zh": "哑铃挤压式卧推",
+      "body_part": "胸",
+      "body_part_id": "chest",
+      "equipment": "哑铃",
+      "equipment_id": "dumbbell",
+      "primary_muscles": [
+        "胸大肌"
+      ],
+      "movement_pattern": "horizontal_push",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength",
+        "powerlifting_support"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "chest-cable-012",
+      "name_zh": "绳索十字夹胸",
+      "body_part": "胸",
+      "body_part_id": "chest",
+      "equipment": "绳索",
+      "equipment_id": "cable",
+      "primary_muscles": [
+        "胸大肌"
+      ],
+      "movement_pattern": "chest_fly",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "chest-cable-013",
+      "name_zh": "绳索夹胸",
+      "body_part": "胸",
+      "body_part_id": "chest",
+      "equipment": "绳索",
+      "equipment_id": "cable",
+      "primary_muscles": [
+        "胸大肌"
+      ],
+      "movement_pattern": "chest_fly",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "chest-cable-014",
+      "name_zh": "下斜绳索夹胸",
+      "body_part": "胸",
+      "body_part_id": "chest",
+      "equipment": "绳索",
+      "equipment_id": "cable",
+      "primary_muscles": [
+        "胸大肌"
+      ],
+      "movement_pattern": "chest_fly",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "chest-hammer_strength-015",
+      "name_zh": "悍马机推胸",
+      "body_part": "胸",
+      "body_part_id": "chest",
+      "equipment": "悍马机",
+      "equipment_id": "hammer_strength",
+      "primary_muscles": [
+        "胸大肌"
+      ],
+      "movement_pattern": "horizontal_push",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength",
+        "powerlifting_support"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "chest-hammer_strength-016",
+      "name_zh": "上斜悍马机推胸",
+      "body_part": "胸",
+      "body_part_id": "chest",
+      "equipment": "悍马机",
+      "equipment_id": "hammer_strength",
+      "primary_muscles": [
+        "胸大肌"
+      ],
+      "movement_pattern": "horizontal_push",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength",
+        "powerlifting_support"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "chest-hammer_strength-017",
+      "name_zh": "悍马机卧推",
+      "body_part": "胸",
+      "body_part_id": "chest",
+      "equipment": "悍马机",
+      "equipment_id": "hammer_strength",
+      "primary_muscles": [
+        "胸大肌"
+      ],
+      "movement_pattern": "horizontal_push",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength",
+        "powerlifting_support"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "chest-hammer_strength-018",
+      "name_zh": "下斜悍马机卧推",
+      "body_part": "胸",
+      "body_part_id": "chest",
+      "equipment": "悍马机",
+      "equipment_id": "hammer_strength",
+      "primary_muscles": [
+        "胸大肌"
+      ],
+      "movement_pattern": "horizontal_push",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength",
+        "powerlifting_support"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "chest-hammer_strength-019",
+      "name_zh": "上斜悍马机飞鸟",
+      "body_part": "胸",
+      "body_part_id": "chest",
+      "equipment": "悍马机",
+      "equipment_id": "hammer_strength",
+      "primary_muscles": [
+        "胸大肌"
+      ],
+      "movement_pattern": "chest_fly",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "chest-hammer_strength-020",
+      "name_zh": "下斜悍马机推胸",
+      "body_part": "胸",
+      "body_part_id": "chest",
+      "equipment": "悍马机",
+      "equipment_id": "hammer_strength",
+      "primary_muscles": [
+        "胸大肌"
+      ],
+      "movement_pattern": "horizontal_push",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength",
+        "powerlifting_support"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "chest-hammer_strength-021",
+      "name_zh": "塔式上斜卧推",
+      "body_part": "胸",
+      "body_part_id": "chest",
+      "equipment": "悍马机",
+      "equipment_id": "hammer_strength",
+      "primary_muscles": [
+        "胸大肌"
+      ],
+      "movement_pattern": "horizontal_push",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength",
+        "powerlifting_support"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "chest-hammer_strength-022",
+      "name_zh": "悍马机多连杆卧推",
+      "body_part": "胸",
+      "body_part_id": "chest",
+      "equipment": "悍马机",
+      "equipment_id": "hammer_strength",
+      "primary_muscles": [
+        "胸大肌"
+      ],
+      "movement_pattern": "horizontal_push",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength",
+        "powerlifting_support"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "chest-smith_machine-023",
+      "name_zh": "史密斯卧推",
+      "body_part": "胸",
+      "body_part_id": "chest",
+      "equipment": "史密斯",
+      "equipment_id": "smith_machine",
+      "primary_muscles": [
+        "胸大肌"
+      ],
+      "movement_pattern": "horizontal_push",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength",
+        "powerlifting_support"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "chest-smith_machine-024",
+      "name_zh": "上斜史密斯卧推",
+      "body_part": "胸",
+      "body_part_id": "chest",
+      "equipment": "史密斯",
+      "equipment_id": "smith_machine",
+      "primary_muscles": [
+        "胸大肌"
+      ],
+      "movement_pattern": "horizontal_push",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength",
+        "powerlifting_support"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "chest-machine-025",
+      "name_zh": "蝴蝶机夹胸",
+      "body_part": "胸",
+      "body_part_id": "chest",
+      "equipment": "器械",
+      "equipment_id": "machine",
+      "primary_muscles": [
+        "胸大肌"
+      ],
+      "movement_pattern": "chest_fly",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "chest-machine-026",
+      "name_zh": "站姿器械下夹",
+      "body_part": "胸",
+      "body_part_id": "chest",
+      "equipment": "器械",
+      "equipment_id": "machine",
+      "primary_muscles": [
+        "胸大肌"
+      ],
+      "movement_pattern": "horizontal_push",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength",
+        "powerlifting_support"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "chest-machine-027",
+      "name_zh": "对握式器械推胸",
+      "body_part": "胸",
+      "body_part_id": "chest",
+      "equipment": "器械",
+      "equipment_id": "machine",
+      "primary_muscles": [
+        "胸大肌"
+      ],
+      "movement_pattern": "horizontal_push",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength",
+        "powerlifting_support"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "back-barbell-001",
+      "name_zh": "杠铃划船",
+      "body_part": "背",
+      "body_part_id": "back",
+      "equipment": "杠铃",
+      "equipment_id": "barbell",
+      "primary_muscles": [
+        "背阔肌",
+        "斜方肌",
+        "菱形肌"
+      ],
+      "movement_pattern": "horizontal_pull",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "back-barbell-002",
+      "name_zh": "反手杠铃划船",
+      "body_part": "背",
+      "body_part_id": "back",
+      "equipment": "杠铃",
+      "equipment_id": "barbell",
+      "primary_muscles": [
+        "背阔肌",
+        "斜方肌",
+        "菱形肌"
+      ],
+      "movement_pattern": "horizontal_pull",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "back-barbell-003",
+      "name_zh": "俯卧杠铃划船",
+      "body_part": "背",
+      "body_part_id": "back",
+      "equipment": "杠铃",
+      "equipment_id": "barbell",
+      "primary_muscles": [
+        "背阔肌",
+        "斜方肌",
+        "菱形肌"
+      ],
+      "movement_pattern": "horizontal_pull",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "back-dumbbell-004",
+      "name_zh": "哑铃划船",
+      "body_part": "背",
+      "body_part_id": "back",
+      "equipment": "哑铃",
+      "equipment_id": "dumbbell",
+      "primary_muscles": [
+        "背阔肌",
+        "斜方肌",
+        "菱形肌"
+      ],
+      "movement_pattern": "horizontal_pull",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "back-cable-005",
+      "name_zh": "宽距高位下拉",
+      "body_part": "背",
+      "body_part_id": "back",
+      "equipment": "绳索",
+      "equipment_id": "cable",
+      "primary_muscles": [
+        "背阔肌",
+        "斜方肌",
+        "菱形肌"
+      ],
+      "movement_pattern": "vertical_pull",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "back-cable-006",
+      "name_zh": "窄距下拉",
+      "body_part": "背",
+      "body_part_id": "back",
+      "equipment": "绳索",
+      "equipment_id": "cable",
+      "primary_muscles": [
+        "背阔肌",
+        "斜方肌",
+        "菱形肌"
+      ],
+      "movement_pattern": "vertical_pull",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "back-cable-007",
+      "name_zh": "坐姿划船",
+      "body_part": "背",
+      "body_part_id": "back",
+      "equipment": "绳索",
+      "equipment_id": "cable",
+      "primary_muscles": [
+        "背阔肌",
+        "斜方肌",
+        "菱形肌"
+      ],
+      "movement_pattern": "horizontal_pull",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "back-cable-008",
+      "name_zh": "拉杆坐姿",
+      "body_part": "背",
+      "body_part_id": "back",
+      "equipment": "绳索",
+      "equipment_id": "cable",
+      "primary_muscles": [
+        "背阔肌",
+        "斜方肌",
+        "菱形肌"
+      ],
+      "movement_pattern": "horizontal_pull",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "back-cable-009",
+      "name_zh": "颈后下拉",
+      "body_part": "背",
+      "body_part_id": "back",
+      "equipment": "绳索",
+      "equipment_id": "cable",
+      "primary_muscles": [
+        "背阔肌",
+        "斜方肌",
+        "菱形肌"
+      ],
+      "movement_pattern": "vertical_pull",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "back-cable-010",
+      "name_zh": "v-bar下拉",
+      "body_part": "背",
+      "body_part_id": "back",
+      "equipment": "绳索",
+      "equipment_id": "cable",
+      "primary_muscles": [
+        "背阔肌",
+        "斜方肌",
+        "菱形肌"
+      ],
+      "movement_pattern": "vertical_pull",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "back-cable-011",
+      "name_zh": "宽距反手下拉",
+      "body_part": "背",
+      "body_part_id": "back",
+      "equipment": "绳索",
+      "equipment_id": "cable",
+      "primary_muscles": [
+        "背阔肌",
+        "斜方肌",
+        "菱形肌"
+      ],
+      "movement_pattern": "vertical_pull",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "back-cable-012",
+      "name_zh": "单手下拉",
+      "body_part": "背",
+      "body_part_id": "back",
+      "equipment": "绳索",
+      "equipment_id": "cable",
+      "primary_muscles": [
+        "背阔肌",
+        "斜方肌",
+        "菱形肌"
+      ],
+      "movement_pattern": "vertical_pull",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "back-cable-013",
+      "name_zh": "窄握把手下拉",
+      "body_part": "背",
+      "body_part_id": "back",
+      "equipment": "绳索",
+      "equipment_id": "cable",
+      "primary_muscles": [
+        "背阔肌",
+        "斜方肌",
+        "菱形肌"
+      ],
+      "movement_pattern": "vertical_pull",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "back-cable-014",
+      "name_zh": "对握高位下拉",
+      "body_part": "背",
+      "body_part_id": "back",
+      "equipment": "绳索",
+      "equipment_id": "cable",
+      "primary_muscles": [
+        "背阔肌",
+        "斜方肌",
+        "菱形肌"
+      ],
+      "movement_pattern": "vertical_pull",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "back-cable-015",
+      "name_zh": "绳索直臂下压",
+      "body_part": "背",
+      "body_part_id": "back",
+      "equipment": "绳索",
+      "equipment_id": "cable",
+      "primary_muscles": [
+        "背阔肌",
+        "斜方肌",
+        "菱形肌"
+      ],
+      "movement_pattern": "vertical_pull",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "back-hammer_strength-016",
+      "name_zh": "悍马机大剪刀",
+      "body_part": "背",
+      "body_part_id": "back",
+      "equipment": "悍马机",
+      "equipment_id": "hammer_strength",
+      "primary_muscles": [
+        "背阔肌",
+        "斜方肌",
+        "菱形肌"
+      ],
+      "movement_pattern": "horizontal_pull",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "back-hammer_strength-017",
+      "name_zh": "鹦鹉螺",
+      "body_part": "背",
+      "body_part_id": "back",
+      "equipment": "悍马机",
+      "equipment_id": "hammer_strength",
+      "primary_muscles": [
+        "背阔肌",
+        "斜方肌",
+        "菱形肌"
+      ],
+      "movement_pattern": "horizontal_pull",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "back-hammer_strength-018",
+      "name_zh": "悍马机划船",
+      "body_part": "背",
+      "body_part_id": "back",
+      "equipment": "悍马机",
+      "equipment_id": "hammer_strength",
+      "primary_muscles": [
+        "背阔肌",
+        "斜方肌",
+        "菱形肌"
+      ],
+      "movement_pattern": "horizontal_pull",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "back-hammer_strength-019",
+      "name_zh": "单手坐姿悍马机划船",
+      "body_part": "背",
+      "body_part_id": "back",
+      "equipment": "悍马机",
+      "equipment_id": "hammer_strength",
+      "primary_muscles": [
+        "背阔肌",
+        "斜方肌",
+        "菱形肌"
+      ],
+      "movement_pattern": "horizontal_pull",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "back-hammer_strength-020",
+      "name_zh": "单手悍马机下拉",
+      "body_part": "背",
+      "body_part_id": "back",
+      "equipment": "悍马机",
+      "equipment_id": "hammer_strength",
+      "primary_muscles": [
+        "背阔肌",
+        "斜方肌",
+        "菱形肌"
+      ],
+      "movement_pattern": "vertical_pull",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "back-smith_machine-021",
+      "name_zh": "史密斯反手划船",
+      "body_part": "背",
+      "body_part_id": "back",
+      "equipment": "史密斯",
+      "equipment_id": "smith_machine",
+      "primary_muscles": [
+        "背阔肌",
+        "斜方肌",
+        "菱形肌"
+      ],
+      "movement_pattern": "horizontal_pull",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "back-bodyweight-022",
+      "name_zh": "引体向上",
+      "body_part": "背",
+      "body_part_id": "back",
+      "equipment": "自重",
+      "equipment_id": "bodyweight",
+      "primary_muscles": [
+        "背阔肌",
+        "斜方肌",
+        "菱形肌"
+      ],
+      "movement_pattern": "vertical_pull",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "shoulders-barbell-001",
+      "name_zh": "哑铃片旋转",
+      "body_part": "肩",
+      "body_part_id": "shoulders",
+      "equipment": "杠铃",
+      "equipment_id": "barbell",
+      "primary_muscles": [
+        "三角肌"
+      ],
+      "movement_pattern": "shoulder_abduction",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "shoulders-barbell-002",
+      "name_zh": "站姿杠铃推举",
+      "body_part": "肩",
+      "body_part_id": "shoulders",
+      "equipment": "杠铃",
+      "equipment_id": "barbell",
+      "primary_muscles": [
+        "三角肌"
+      ],
+      "movement_pattern": "vertical_push",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "shoulders-barbell-003",
+      "name_zh": "站姿布拉德福德推举",
+      "body_part": "肩",
+      "body_part_id": "shoulders",
+      "equipment": "杠铃",
+      "equipment_id": "barbell",
+      "primary_muscles": [
+        "三角肌"
+      ],
+      "movement_pattern": "vertical_push",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "shoulders-barbell-004",
+      "name_zh": "杠铃俯身提拉",
+      "body_part": "肩",
+      "body_part_id": "shoulders",
+      "equipment": "杠铃",
+      "equipment_id": "barbell",
+      "primary_muscles": [
+        "三角肌"
+      ],
+      "movement_pattern": "rear_delt",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "shoulders-barbell-005",
+      "name_zh": "杠铃提拉",
+      "body_part": "肩",
+      "body_part_id": "shoulders",
+      "equipment": "杠铃",
+      "equipment_id": "barbell",
+      "primary_muscles": [
+        "三角肌"
+      ],
+      "movement_pattern": "shoulder_abduction",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "shoulders-dumbbell-006",
+      "name_zh": "哑铃推肩",
+      "body_part": "肩",
+      "body_part_id": "shoulders",
+      "equipment": "哑铃",
+      "equipment_id": "dumbbell",
+      "primary_muscles": [
+        "三角肌"
+      ],
+      "movement_pattern": "vertical_push",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "shoulders-dumbbell-007",
+      "name_zh": "哑铃飞鸟",
+      "body_part": "肩",
+      "body_part_id": "shoulders",
+      "equipment": "哑铃",
+      "equipment_id": "dumbbell",
+      "primary_muscles": [
+        "三角肌"
+      ],
+      "movement_pattern": "shoulder_abduction",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "shoulders-dumbbell-008",
+      "name_zh": "哑铃上斜俯身侧平举",
+      "body_part": "肩",
+      "body_part_id": "shoulders",
+      "equipment": "哑铃",
+      "equipment_id": "dumbbell",
+      "primary_muscles": [
+        "三角肌"
+      ],
+      "movement_pattern": "rear_delt",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "shoulders-cable-009",
+      "name_zh": "绳索侧平举",
+      "body_part": "肩",
+      "body_part_id": "shoulders",
+      "equipment": "绳索",
+      "equipment_id": "cable",
+      "primary_muscles": [
+        "三角肌"
+      ],
+      "movement_pattern": "shoulder_abduction",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "shoulders-cable-010",
+      "name_zh": "面拉",
+      "body_part": "肩",
+      "body_part_id": "shoulders",
+      "equipment": "绳索",
+      "equipment_id": "cable",
+      "primary_muscles": [
+        "三角肌"
+      ],
+      "movement_pattern": "rear_delt",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "shoulders-hammer_strength-011",
+      "name_zh": "塔式推肩",
+      "body_part": "肩",
+      "body_part_id": "shoulders",
+      "equipment": "悍马机",
+      "equipment_id": "hammer_strength",
+      "primary_muscles": [
+        "三角肌"
+      ],
+      "movement_pattern": "vertical_push",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "shoulders-hammer_strength-012",
+      "name_zh": "悍马机坐姿推举",
+      "body_part": "肩",
+      "body_part_id": "shoulders",
+      "equipment": "悍马机",
+      "equipment_id": "hammer_strength",
+      "primary_muscles": [
+        "三角肌"
+      ],
+      "movement_pattern": "vertical_push",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "shoulders-smith_machine-013",
+      "name_zh": "史密斯机推举",
+      "body_part": "肩",
+      "body_part_id": "shoulders",
+      "equipment": "史密斯",
+      "equipment_id": "smith_machine",
+      "primary_muscles": [
+        "三角肌"
+      ],
+      "movement_pattern": "vertical_push",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "shoulders-machine-014",
+      "name_zh": "蝴蝶机反向飞鸟",
+      "body_part": "肩",
+      "body_part_id": "shoulders",
+      "equipment": "器械",
+      "equipment_id": "machine",
+      "primary_muscles": [
+        "三角肌"
+      ],
+      "movement_pattern": "rear_delt",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "shoulders-machine-015",
+      "name_zh": "站姿器械侧平举",
+      "body_part": "肩",
+      "body_part_id": "shoulders",
+      "equipment": "器械",
+      "equipment_id": "machine",
+      "primary_muscles": [
+        "三角肌"
+      ],
+      "movement_pattern": "shoulder_abduction",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "legs-barbell-001",
+      "name_zh": "杠铃深蹲",
+      "body_part": "腿",
+      "body_part_id": "legs",
+      "equipment": "杠铃",
+      "equipment_id": "barbell",
+      "primary_muscles": [
+        "股四头肌",
+        "腘绳肌",
+        "臀大肌"
+      ],
+      "movement_pattern": "squat",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength",
+        "powerlifting_support"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "legs-barbell-002",
+      "name_zh": "泽奇深蹲",
+      "body_part": "腿",
+      "body_part_id": "legs",
+      "equipment": "杠铃",
+      "equipment_id": "barbell",
+      "primary_muscles": [
+        "股四头肌",
+        "腘绳肌",
+        "臀大肌"
+      ],
+      "movement_pattern": "squat",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength",
+        "powerlifting_support"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "legs-barbell-003",
+      "name_zh": "硬拉",
+      "body_part": "腿",
+      "body_part_id": "legs",
+      "equipment": "杠铃",
+      "equipment_id": "barbell",
+      "primary_muscles": [
+        "股四头肌",
+        "腘绳肌",
+        "臀大肌"
+      ],
+      "movement_pattern": "hinge",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength",
+        "powerlifting_support"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "legs-dumbbell-004",
+      "name_zh": "哑铃保加利亚蹲",
+      "body_part": "腿",
+      "body_part_id": "legs",
+      "equipment": "哑铃",
+      "equipment_id": "dumbbell",
+      "primary_muscles": [
+        "股四头肌",
+        "腘绳肌",
+        "臀大肌"
+      ],
+      "movement_pattern": "squat",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength",
+        "powerlifting_support"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "legs-dumbbell-005",
+      "name_zh": "哑铃酒杯深蹲",
+      "body_part": "腿",
+      "body_part_id": "legs",
+      "equipment": "哑铃",
+      "equipment_id": "dumbbell",
+      "primary_muscles": [
+        "股四头肌",
+        "腘绳肌",
+        "臀大肌"
+      ],
+      "movement_pattern": "squat",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength",
+        "powerlifting_support"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "legs-hammer_strength-006",
+      "name_zh": "悍马机深蹲",
+      "body_part": "腿",
+      "body_part_id": "legs",
+      "equipment": "悍马机",
+      "equipment_id": "hammer_strength",
+      "primary_muscles": [
+        "股四头肌",
+        "腘绳肌",
+        "臀大肌"
+      ],
+      "movement_pattern": "squat",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength",
+        "powerlifting_support"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "legs-hammer_strength-007",
+      "name_zh": "钟摆深蹲",
+      "body_part": "腿",
+      "body_part_id": "legs",
+      "equipment": "悍马机",
+      "equipment_id": "hammer_strength",
+      "primary_muscles": [
+        "股四头肌",
+        "腘绳肌",
+        "臀大肌"
+      ],
+      "movement_pattern": "squat",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength",
+        "powerlifting_support"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "legs-smith_machine-008",
+      "name_zh": "史密斯深蹲",
+      "body_part": "腿",
+      "body_part_id": "legs",
+      "equipment": "史密斯",
+      "equipment_id": "smith_machine",
+      "primary_muscles": [
+        "股四头肌",
+        "腘绳肌",
+        "臀大肌"
+      ],
+      "movement_pattern": "squat",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength",
+        "powerlifting_support"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "legs-smith_machine-009",
+      "name_zh": "史密斯机直腿硬拉",
+      "body_part": "腿",
+      "body_part_id": "legs",
+      "equipment": "史密斯",
+      "equipment_id": "smith_machine",
+      "primary_muscles": [
+        "股四头肌",
+        "腘绳肌",
+        "臀大肌"
+      ],
+      "movement_pattern": "hinge",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength",
+        "powerlifting_support"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "legs-machine-010",
+      "name_zh": "哈克深蹲",
+      "body_part": "腿",
+      "body_part_id": "legs",
+      "equipment": "器械",
+      "equipment_id": "machine",
+      "primary_muscles": [
+        "股四头肌",
+        "腘绳肌",
+        "臀大肌"
+      ],
+      "movement_pattern": "squat",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength",
+        "powerlifting_support"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "legs-machine-011",
+      "name_zh": "腿弯举",
+      "body_part": "腿",
+      "body_part_id": "legs",
+      "equipment": "器械",
+      "equipment_id": "machine",
+      "primary_muscles": [
+        "股四头肌",
+        "腘绳肌",
+        "臀大肌"
+      ],
+      "movement_pattern": "knee_flexion",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "legs-machine-012",
+      "name_zh": "坐姿腿屈伸",
+      "body_part": "腿",
+      "body_part_id": "legs",
+      "equipment": "器械",
+      "equipment_id": "machine",
+      "primary_muscles": [
+        "股四头肌",
+        "腘绳肌",
+        "臀大肌"
+      ],
+      "movement_pattern": "squat",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength",
+        "powerlifting_support"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "legs-machine-013",
+      "name_zh": "器械倒蹬",
+      "body_part": "腿",
+      "body_part_id": "legs",
+      "equipment": "器械",
+      "equipment_id": "machine",
+      "primary_muscles": [
+        "股四头肌",
+        "腘绳肌",
+        "臀大肌"
+      ],
+      "movement_pattern": "squat",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength",
+        "powerlifting_support"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "biceps-barbell-001",
+      "name_zh": "杠铃弯举",
+      "body_part": "二头",
+      "body_part_id": "biceps",
+      "equipment": "杠铃",
+      "equipment_id": "barbell",
+      "primary_muscles": [
+        "肱二头肌",
+        "肱肌"
+      ],
+      "movement_pattern": "elbow_flexion",
+      "goals": [
+        "hypertrophy",
+        "body_shaping"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "biceps-barbell-002",
+      "name_zh": "ez杆二头弯举",
+      "body_part": "二头",
+      "body_part_id": "biceps",
+      "equipment": "杠铃",
+      "equipment_id": "barbell",
+      "primary_muscles": [
+        "肱二头肌",
+        "肱肌"
+      ],
+      "movement_pattern": "elbow_flexion",
+      "goals": [
+        "hypertrophy",
+        "body_shaping"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "biceps-barbell-003",
+      "name_zh": "俯卧上斜杠铃弯举",
+      "body_part": "二头",
+      "body_part_id": "biceps",
+      "equipment": "杠铃",
+      "equipment_id": "barbell",
+      "primary_muscles": [
+        "肱二头肌",
+        "肱肌"
+      ],
+      "movement_pattern": "elbow_flexion",
+      "goals": [
+        "hypertrophy",
+        "body_shaping"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "biceps-dumbbell-004",
+      "name_zh": "哑铃弯举",
+      "body_part": "二头",
+      "body_part_id": "biceps",
+      "equipment": "哑铃",
+      "equipment_id": "dumbbell",
+      "primary_muscles": [
+        "肱二头肌",
+        "肱肌"
+      ],
+      "movement_pattern": "elbow_flexion",
+      "goals": [
+        "hypertrophy",
+        "body_shaping"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "biceps-dumbbell-005",
+      "name_zh": "坐姿哑铃弯举",
+      "body_part": "二头",
+      "body_part_id": "biceps",
+      "equipment": "哑铃",
+      "equipment_id": "dumbbell",
+      "primary_muscles": [
+        "肱二头肌",
+        "肱肌"
+      ],
+      "movement_pattern": "elbow_flexion",
+      "goals": [
+        "hypertrophy",
+        "body_shaping"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "biceps-dumbbell-006",
+      "name_zh": "锤式弯举",
+      "body_part": "二头",
+      "body_part_id": "biceps",
+      "equipment": "哑铃",
+      "equipment_id": "dumbbell",
+      "primary_muscles": [
+        "肱二头肌",
+        "肱肌"
+      ],
+      "movement_pattern": "elbow_flexion",
+      "goals": [
+        "hypertrophy",
+        "body_shaping"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "biceps-dumbbell-007",
+      "name_zh": "上斜锤式弯举",
+      "body_part": "二头",
+      "body_part_id": "biceps",
+      "equipment": "哑铃",
+      "equipment_id": "dumbbell",
+      "primary_muscles": [
+        "肱二头肌",
+        "肱肌"
+      ],
+      "movement_pattern": "elbow_flexion",
+      "goals": [
+        "hypertrophy",
+        "body_shaping"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "biceps-cable-008",
+      "name_zh": "直杆绳索弯举",
+      "body_part": "二头",
+      "body_part_id": "biceps",
+      "equipment": "绳索",
+      "equipment_id": "cable",
+      "primary_muscles": [
+        "肱二头肌",
+        "肱肌"
+      ],
+      "movement_pattern": "elbow_flexion",
+      "goals": [
+        "hypertrophy",
+        "body_shaping"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "biceps-cable-009",
+      "name_zh": "背后二头单边弯举",
+      "body_part": "二头",
+      "body_part_id": "biceps",
+      "equipment": "绳索",
+      "equipment_id": "cable",
+      "primary_muscles": [
+        "肱二头肌",
+        "肱肌"
+      ],
+      "movement_pattern": "elbow_flexion",
+      "goals": [
+        "hypertrophy",
+        "body_shaping"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "biceps-machine-010",
+      "name_zh": "坐姿器械二头弯举",
+      "body_part": "二头",
+      "body_part_id": "biceps",
+      "equipment": "器械",
+      "equipment_id": "machine",
+      "primary_muscles": [
+        "肱二头肌",
+        "肱肌"
+      ],
+      "movement_pattern": "elbow_flexion",
+      "goals": [
+        "hypertrophy",
+        "body_shaping"
+      ],
+      "source": "动作库.txt",
+      "notes": ""
+    },
+    {
+      "id": "triceps-machine-001",
+      "name_zh": "器械臂屈伸（版本 2）",
+      "body_part": "三头",
+      "body_part_id": "triceps",
+      "equipment": "器械",
+      "equipment_id": "machine",
+      "primary_muscles": [
+        "肱三头肌"
+      ],
+      "movement_pattern": "elbow_extension",
+      "goals": [
+        "hypertrophy",
+        "body_shaping"
+      ],
+      "source": "IMG_2475-2476.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "triceps-machine-002",
+      "name_zh": "器械臂屈伸",
+      "body_part": "三头",
+      "body_part_id": "triceps",
+      "equipment": "器械",
+      "equipment_id": "machine",
+      "primary_muscles": [
+        "肱三头肌"
+      ],
+      "movement_pattern": "elbow_extension",
+      "goals": [
+        "hypertrophy",
+        "body_shaping"
+      ],
+      "source": "IMG_2475-2476.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "triceps-machine-003",
+      "name_zh": "器械三头下压（正向）",
+      "body_part": "三头",
+      "body_part_id": "triceps",
+      "equipment": "器械",
+      "equipment_id": "machine",
+      "primary_muscles": [
+        "肱三头肌"
+      ],
+      "movement_pattern": "elbow_extension",
+      "goals": [
+        "hypertrophy",
+        "body_shaping"
+      ],
+      "source": "IMG_2475-2476.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "triceps-cable-004",
+      "name_zh": "绳索臂屈伸",
+      "body_part": "三头",
+      "body_part_id": "triceps",
+      "equipment": "绳索",
+      "equipment_id": "cable",
+      "primary_muscles": [
+        "肱三头肌"
+      ],
+      "movement_pattern": "elbow_extension",
+      "goals": [
+        "hypertrophy",
+        "body_shaping"
+      ],
+      "source": "IMG_2475-2476.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "triceps-cable-005",
+      "name_zh": "直杆绳索下压",
+      "body_part": "三头",
+      "body_part_id": "triceps",
+      "equipment": "绳索",
+      "equipment_id": "cable",
+      "primary_muscles": [
+        "肱三头肌"
+      ],
+      "movement_pattern": "elbow_extension",
+      "goals": [
+        "hypertrophy",
+        "body_shaping"
+      ],
+      "source": "IMG_2475-2476.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "triceps-barbell-006",
+      "name_zh": "窄距卧推（敞开式）",
+      "body_part": "三头",
+      "body_part_id": "triceps",
+      "equipment": "杠铃",
+      "equipment_id": "barbell",
+      "primary_muscles": [
+        "肱三头肌"
+      ],
+      "movement_pattern": "close_grip_press",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "strength",
+        "powerlifting_support"
+      ],
+      "source": "IMG_2475-2476.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "triceps-barbell-007",
+      "name_zh": "仰卧杠铃臂屈伸",
+      "body_part": "三头",
+      "body_part_id": "triceps",
+      "equipment": "杠铃",
+      "equipment_id": "barbell",
+      "primary_muscles": [
+        "肱三头肌"
+      ],
+      "movement_pattern": "elbow_extension",
+      "goals": [
+        "hypertrophy",
+        "body_shaping"
+      ],
+      "source": "IMG_2475-2476.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-dumbbell-001",
+      "name_zh": "哑铃臀冲",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "哑铃",
+      "equipment_id": "dumbbell",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "hip_thrust",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization",
+        "strength"
+      ],
+      "source": "IMG_2479.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-dumbbell-002",
+      "name_zh": "单腿哑铃臀冲",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "哑铃",
+      "equipment_id": "dumbbell",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "hip_thrust",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization",
+        "strength"
+      ],
+      "source": "IMG_2479.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-dumbbell-003",
+      "name_zh": "单腿哑铃硬拉",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "哑铃",
+      "equipment_id": "dumbbell",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "hinge",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization",
+        "strength"
+      ],
+      "source": "IMG_2479.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-dumbbell-004",
+      "name_zh": "哑铃上凳",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "哑铃",
+      "equipment_id": "dumbbell",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "step_up",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization"
+      ],
+      "source": "IMG_2479.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-dumbbell-005",
+      "name_zh": "分腿硬拉",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "哑铃",
+      "equipment_id": "dumbbell",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "hinge",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization",
+        "strength"
+      ],
+      "source": "IMG_2479.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-dumbbell-006",
+      "name_zh": "单手分腿硬拉",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "哑铃",
+      "equipment_id": "dumbbell",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "hinge",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization",
+        "strength"
+      ],
+      "source": "IMG_2479.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-dumbbell-007",
+      "name_zh": "哑铃甩",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "哑铃",
+      "equipment_id": "dumbbell",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "hip_hinge_power",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization"
+      ],
+      "source": "IMG_2479.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-dumbbell-008",
+      "name_zh": "哑铃硬拉",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "哑铃",
+      "equipment_id": "dumbbell",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "hinge",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization",
+        "strength"
+      ],
+      "source": "IMG_2479.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-dumbbell-009",
+      "name_zh": "哑铃摆荡",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "哑铃",
+      "equipment_id": "dumbbell",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "hip_hinge_power",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization"
+      ],
+      "source": "IMG_2479.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-dumbbell-010",
+      "name_zh": "哑铃俯身屈髋硬拉",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "哑铃",
+      "equipment_id": "dumbbell",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "hinge",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization",
+        "strength"
+      ],
+      "source": "IMG_2479.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-kettlebell-011",
+      "name_zh": "壶铃甩",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "壶铃",
+      "equipment_id": "kettlebell",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "hip_hinge_power",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization"
+      ],
+      "source": "IMG_2480.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-kettlebell-012",
+      "name_zh": "单腿壶铃硬拉",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "壶铃",
+      "equipment_id": "kettlebell",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "hinge",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization",
+        "strength"
+      ],
+      "source": "IMG_2480.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-cable-013",
+      "name_zh": "绳索直腿硬拉",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "绳索",
+      "equipment_id": "cable",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "hinge",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization",
+        "strength"
+      ],
+      "source": "IMG_2480.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-cable-014",
+      "name_zh": "俯身驴踢",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "绳索",
+      "equipment_id": "cable",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "hip_extension",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization"
+      ],
+      "source": "IMG_2480.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-cable-015",
+      "name_zh": "站姿驴踢",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "绳索",
+      "equipment_id": "cable",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "hip_extension",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization"
+      ],
+      "source": "IMG_2480.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-cable-016",
+      "name_zh": "绳索侧踢",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "绳索",
+      "equipment_id": "cable",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "hip_abduction",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization"
+      ],
+      "source": "IMG_2480.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-cable-017",
+      "name_zh": "绳索内收",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "绳索",
+      "equipment_id": "cable",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "hip_adduction",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization"
+      ],
+      "source": "IMG_2480.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-cable-018",
+      "name_zh": "绳索站姿臀冲",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "绳索",
+      "equipment_id": "cable",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "hip_thrust",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization",
+        "strength"
+      ],
+      "source": "IMG_2480.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-cable-019",
+      "name_zh": "绳索窄距椅式起身",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "绳索",
+      "equipment_id": "cable",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "squat",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization",
+        "strength"
+      ],
+      "source": "IMG_2480.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-cable-020",
+      "name_zh": "踏板箱绳索直腿硬拉",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "绳索",
+      "equipment_id": "cable",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "hinge",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization",
+        "strength"
+      ],
+      "source": "IMG_2480.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-hammer_strength-021",
+      "name_zh": "悍马机臀冲",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "悍马机",
+      "equipment_id": "hammer_strength",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "hip_thrust",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization",
+        "strength"
+      ],
+      "source": "IMG_2481.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-hammer_strength-022",
+      "name_zh": "悍马机外展",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "悍马机",
+      "equipment_id": "hammer_strength",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "hip_abduction",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization"
+      ],
+      "source": "IMG_2481.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-hammer_strength-023",
+      "name_zh": "哈克机早安",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "悍马机",
+      "equipment_id": "hammer_strength",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "hinge",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization",
+        "strength"
+      ],
+      "source": "IMG_2481.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-hammer_strength-024",
+      "name_zh": "挂片后摆腿",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "悍马机",
+      "equipment_id": "hammer_strength",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "hip_extension",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization"
+      ],
+      "source": "IMG_2481.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-hammer_strength-025",
+      "name_zh": "挂片式罗马尼亚硬拉",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "悍马机",
+      "equipment_id": "hammer_strength",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "hinge",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization",
+        "strength"
+      ],
+      "source": "IMG_2481.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-hammer_strength-026",
+      "name_zh": "挂片站姿臀冲",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "悍马机",
+      "equipment_id": "hammer_strength",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "hip_thrust",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization",
+        "strength"
+      ],
+      "source": "IMG_2481.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-hammer_strength-027",
+      "name_zh": "站姿髋外展",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "悍马机",
+      "equipment_id": "hammer_strength",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "hip_abduction",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization"
+      ],
+      "source": "IMG_2481.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-smith_machine-028",
+      "name_zh": "史密斯臀冲",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "史密斯机",
+      "equipment_id": "smith_machine",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "hip_thrust",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization",
+        "strength"
+      ],
+      "source": "IMG_2482.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-smith_machine-029",
+      "name_zh": "史密斯后踢",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "史密斯机",
+      "equipment_id": "smith_machine",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "hip_extension",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization"
+      ],
+      "source": "IMG_2482.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-smith_machine-030",
+      "name_zh": "史密斯机早安",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "史密斯机",
+      "equipment_id": "smith_machine",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "hinge",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization",
+        "strength"
+      ],
+      "source": "IMG_2482.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-smith_machine-031",
+      "name_zh": "史密斯罗马尼亚硬拉",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "史密斯机",
+      "equipment_id": "smith_machine",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "hinge",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization",
+        "strength"
+      ],
+      "source": "IMG_2482.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-smith_machine-032",
+      "name_zh": "史密斯机青蛙后蹬",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "史密斯机",
+      "equipment_id": "smith_machine",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "hip_extension",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization"
+      ],
+      "source": "IMG_2482.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-machine-033",
+      "name_zh": "坐姿髋外展",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "器械",
+      "equipment_id": "machine",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "hip_abduction",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization"
+      ],
+      "source": "IMG_2482-2483.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-machine-034",
+      "name_zh": "坐姿髋内收",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "器械",
+      "equipment_id": "machine",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "hip_adduction",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization"
+      ],
+      "source": "IMG_2482-2483.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-machine-035",
+      "name_zh": "哈克机反向深蹲",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "器械",
+      "equipment_id": "machine",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "squat",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization",
+        "strength"
+      ],
+      "source": "IMG_2482-2483.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-machine-036",
+      "name_zh": "器械后踢 V2",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "器械",
+      "equipment_id": "machine",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "hip_extension",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization"
+      ],
+      "source": "IMG_2482-2483.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-machine-037",
+      "name_zh": "器械后踢",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "器械",
+      "equipment_id": "machine",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "hip_extension",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization"
+      ],
+      "source": "IMG_2482-2483.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-machine-038",
+      "name_zh": "器械臀冲",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "器械",
+      "equipment_id": "machine",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "hip_thrust",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization",
+        "strength"
+      ],
+      "source": "IMG_2482-2483.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-machine-039",
+      "name_zh": "器械驴踢",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "器械",
+      "equipment_id": "machine",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "hip_extension",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization"
+      ],
+      "source": "IMG_2482-2483.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-machine-040",
+      "name_zh": "器械侧踢",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "器械",
+      "equipment_id": "machine",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "hip_abduction",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization"
+      ],
+      "source": "IMG_2482-2483.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-machine-041",
+      "name_zh": "器械后蹬腿",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "器械",
+      "equipment_id": "machine",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "hip_extension",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization"
+      ],
+      "source": "IMG_2482-2483.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "glutes-machine-042",
+      "name_zh": "直腿内收",
+      "body_part": "臀部",
+      "body_part_id": "glutes",
+      "equipment": "器械",
+      "equipment_id": "machine",
+      "primary_muscles": [
+        "臀大肌",
+        "臀中肌",
+        "腘绳肌"
+      ],
+      "movement_pattern": "hip_adduction",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "body_part_specialization"
+      ],
+      "source": "IMG_2482-2483.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "abs-cable-001",
+      "name_zh": "绳索跪姿卷腹",
+      "body_part": "腹部",
+      "body_part_id": "abs",
+      "equipment": "绳索",
+      "equipment_id": "cable",
+      "primary_muscles": [
+        "腹直肌",
+        "腹斜肌",
+        "腹横肌"
+      ],
+      "movement_pattern": "trunk_flexion",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "core_stability"
+      ],
+      "source": "IMG_2484.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "abs-cable-002",
+      "name_zh": "站姿绳索转体",
+      "body_part": "腹部",
+      "body_part_id": "abs",
+      "equipment": "绳索",
+      "equipment_id": "cable",
+      "primary_muscles": [
+        "腹直肌",
+        "腹斜肌",
+        "腹横肌"
+      ],
+      "movement_pattern": "trunk_rotation",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "core_stability"
+      ],
+      "source": "IMG_2484.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "abs-cable-003",
+      "name_zh": "站姿绳索转体（版本 2）",
+      "body_part": "腹部",
+      "body_part_id": "abs",
+      "equipment": "绳索",
+      "equipment_id": "cable",
+      "primary_muscles": [
+        "腹直肌",
+        "腹斜肌",
+        "腹横肌"
+      ],
+      "movement_pattern": "trunk_rotation",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "core_stability"
+      ],
+      "source": "IMG_2484.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "abs-cable-004",
+      "name_zh": "站姿绳索卷腹",
+      "body_part": "腹部",
+      "body_part_id": "abs",
+      "equipment": "绳索",
+      "equipment_id": "cable",
+      "primary_muscles": [
+        "腹直肌",
+        "腹斜肌",
+        "腹横肌"
+      ],
+      "movement_pattern": "trunk_flexion",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "core_stability"
+      ],
+      "source": "IMG_2484.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "abs-hammer_strength-005",
+      "name_zh": "悍马机卷腹",
+      "body_part": "腹部",
+      "body_part_id": "abs",
+      "equipment": "悍马机",
+      "equipment_id": "hammer_strength",
+      "primary_muscles": [
+        "腹直肌",
+        "腹斜肌",
+        "腹横肌"
+      ],
+      "movement_pattern": "trunk_flexion",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "core_stability"
+      ],
+      "source": "IMG_2484-2485.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "abs-smith_machine-006",
+      "name_zh": "史密斯上踢",
+      "body_part": "腹部",
+      "body_part_id": "abs",
+      "equipment": "史密斯机",
+      "equipment_id": "smith_machine",
+      "primary_muscles": [
+        "腹直肌",
+        "腹斜肌",
+        "腹横肌"
+      ],
+      "movement_pattern": "leg_raise",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "core_stability"
+      ],
+      "source": "IMG_2484.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "abs-machine-007",
+      "name_zh": "坐姿器械卷腹",
+      "body_part": "腹部",
+      "body_part_id": "abs",
+      "equipment": "器械",
+      "equipment_id": "machine",
+      "primary_muscles": [
+        "腹直肌",
+        "腹斜肌",
+        "腹横肌"
+      ],
+      "movement_pattern": "trunk_flexion",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "core_stability"
+      ],
+      "source": "IMG_2485.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "abs-bodyweight-008",
+      "name_zh": "抬腿",
+      "body_part": "腹部",
+      "body_part_id": "abs",
+      "equipment": "自重",
+      "equipment_id": "bodyweight",
+      "primary_muscles": [
+        "腹直肌",
+        "腹斜肌",
+        "腹横肌"
+      ],
+      "movement_pattern": "leg_raise",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "core_stability"
+      ],
+      "source": "IMG_2485.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "abs-bodyweight-009",
+      "name_zh": "触膝卷腹",
+      "body_part": "腹部",
+      "body_part_id": "abs",
+      "equipment": "自重",
+      "equipment_id": "bodyweight",
+      "primary_muscles": [
+        "腹直肌",
+        "腹斜肌",
+        "腹横肌"
+      ],
+      "movement_pattern": "trunk_flexion",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "core_stability"
+      ],
+      "source": "IMG_2485.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "abs-bodyweight-010",
+      "name_zh": "交替触脚跟",
+      "body_part": "腹部",
+      "body_part_id": "abs",
+      "equipment": "自重",
+      "equipment_id": "bodyweight",
+      "primary_muscles": [
+        "腹直肌",
+        "腹斜肌",
+        "腹横肌"
+      ],
+      "movement_pattern": "lateral_flexion",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "core_stability"
+      ],
+      "source": "IMG_2485.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    },
+    {
+      "id": "abs-bodyweight-011",
+      "name_zh": "平躺抬腿",
+      "body_part": "腹部",
+      "body_part_id": "abs",
+      "equipment": "自重",
+      "equipment_id": "bodyweight",
+      "primary_muscles": [
+        "腹直肌",
+        "腹斜肌",
+        "腹横肌"
+      ],
+      "movement_pattern": "leg_raise",
+      "goals": [
+        "hypertrophy",
+        "body_shaping",
+        "core_stability"
+      ],
+      "source": "IMG_2485.PNG",
+      "notes": "从截图中清晰可读的动作名导入；解剖和目标为初步推断。"
+    }
+  ]
+}

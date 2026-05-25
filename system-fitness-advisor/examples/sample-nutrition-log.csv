@@ -1,0 +1,7 @@
+date,meal,food,quantity,calories,protein_g,carbs_g,fat_g,fiber_g,hunger,adherence,notes
+2026-05-04,breakfast,oats and whey,1 bowl,520,38,62,12,8,3,good,pre-work day
+2026-05-04,lunch,chicken rice,1 plate,680,45,82,16,5,4,good,
+2026-05-04,dinner,beef noodles,1 bowl,760,42,95,22,4,5,partial,ate out
+2026-05-05,breakfast,eggs toast,1 serving,480,30,45,18,4,3,good,
+2026-05-05,lunch,fish rice,1 plate,640,48,70,14,6,3,good,
+2026-05-05,dinner,chicken salad potato,1 serving,610,52,55,16,9,4,good,
