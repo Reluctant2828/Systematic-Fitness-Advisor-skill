@@ -124,7 +124,7 @@ fitness    ❯ 先不要立刻大幅降低热量。
 打开你在用的 agent（Claude Code、Codex、Cursor、OpenClaw、Hermes、CodeBuddy、Gemini CLI、OpenCode 等），告诉它：
 
 ```
-帮我安装这个 skill：https://github.com/Reluctant2828/System-Fitness-Advisor-skill
+帮我安装这个 skill：https://github.com/Reluctant2828/System-Fitness-Advisor-skill/tree/main/system-fitness-advisor
 ```
 ---
 ## 使用
